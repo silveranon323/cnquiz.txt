@@ -1,0 +1,5 @@
+How many host can be present in a network with subnet mask 255.255.255.192
+You need to connect 25PC. How many minimum addresses you need to acquire to setup a LAN. 
+IP: 202.70.45.34, Subnet Mask: 255.255.255.192 Find out the network address. 
+IP: 202.70.45.34, Subnet Mask: 255.255.255.192 Find out the broadcast address.
+A Host has IP: 202.70.45.34, Subnet Mask: 255.255.255.240 How many maximum PC might be connected in the network if this network is connected to a router interface?
